@@ -9,7 +9,7 @@ Run using Live Server:
 The homepage welcomes users with a strong heading and featured image banner.  
 It includes navigation links to other sections of the website.
 
-![Home Page](screenshots/home.png)
+![Home Page](/home.png)
 
 ### ✨ Features:
 - Navigation bar
@@ -20,7 +20,7 @@ It includes navigation links to other sections of the website.
 # 📖 About LTS Page
 This section explains the story behind The Little Taco Shop, including images and structured content.
 
-![About Page](screenshots/about.png)
+![About Page](/about.png)
 
 ### ✨ Features:
 - Story timeline layout
@@ -30,7 +30,7 @@ This section explains the story behind The Little Taco Shop, including images an
 # 🕒 Store Hours Page
 Displays the restaurant’s working hours clearly and attractively.
 
-![Store Hours](screenshots/hours.png)
+![Store Hours](/store-hours.png)
 
 ### ✨ Features:
 - Operating schedule
@@ -41,7 +41,7 @@ Displays the restaurant’s working hours clearly and attractively.
 # 📩 Contact Us Page
 A simple and functional contact form for users to send queries.
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](/contact.png)
 
 ### ✨ Features:
 - Name input field
